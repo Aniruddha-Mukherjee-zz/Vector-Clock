@@ -13,7 +13,10 @@ java Peer.Server 3
 
 
 API(s) supported:
+
 event               : Local Event. Clock++
+
 Show                : Show the entire clock stored at that node
+
 send x              : Send the vector clock to peer x. 
                       sender.clock++  as well as  receiver.clock++
