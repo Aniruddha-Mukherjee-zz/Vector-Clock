@@ -1,7 +1,7 @@
 # Vector-Clock
 Vector Clock assignment for Distributed Computing Lab
 
-javac Peer/*.
+javac Peer/*.java
 
 java Peer.Server 0
 
