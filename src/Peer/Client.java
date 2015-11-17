@@ -1,6 +1,6 @@
 /*
- * Client class of assignment 1
- * 
+Created by Aniruddha Mukherjee & Rahul Gautam
+ Client class of assignment 2
  */
 package Peer;
 
@@ -52,11 +52,7 @@ public class Client extends Thread{
 	      }
 		
 	   }
-	
-	// utility function for get
-	
-	
-	
+
 	
         @Override
 	public void run(){
