@@ -1,4 +1,7 @@
-
+/*
+Created by Aniruddha Mukherjee & Rahul Gautam
+Vector Clock class of assignment 2
+*/
 package Peer;
 
 import java.*;
