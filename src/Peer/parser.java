@@ -1,3 +1,7 @@
+/*
+Created by Aniruddha Mukherjee & Rahul Gautam
+Server class of assignment 2
+ */
 package Peer;
 import java.*;
 //import Vclock.VectorClock;
